@@ -15,3 +15,7 @@ This is a project based on Crime Prediction using Machine Learning Agorithms
 - Crime forecasting for the next 9 years was done using ARIMA model. 
 - K-means clustering was done on a state to identify the safe and unsafe zones.
 - Crime forecasting model was deployed on a website with the help of Flask framework.
+
+
+# Deployed website
+https://crime-detector.herokuapp.com/
